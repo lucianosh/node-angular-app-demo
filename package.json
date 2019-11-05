@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~8.2.3",
     "@angular/router": "~8.2.3",
     "mongodb": "^3.3.1",
-    "mongoose": "^5.6.11",
+    "mongoose": "^5.7.5",
     "mssql": "^5.1.0",
     "node-localdb": "0.0.3",
     "rxjs": "~6.4.0",
