@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^8.2.14",
     "@angular/platform-browser-dynamic": "^8.2.14",
     "@angular/router": "^8.2.14",
-    "lodash": "^4.17.12",
+    "lodash": "^4.17.21",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.3",
     "mssql": "^5.1.0",
